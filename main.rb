@@ -1,6 +1,6 @@
 require 'telegram/bot'
 
-TOKEN = '917524629:AAHHPMwd6TibTBBgFr-zXMYpXhPYNsOjtIg'
+TOKEN = 'YOU TOKEN'
 
 ANSWERS = []
 
